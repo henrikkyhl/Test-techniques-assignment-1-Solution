@@ -1,0 +1,132 @@
+{
+  "BusCompany.dll": {
+    "/Users/hk/Documents/Undervisning/Test Autumn 2018/Solutions/Test techniques assignment 1 Solution/BusCompany/PriceCalculator.cs": {
+      "BusCompany.PriceCalculator": {
+        "System.Decimal BusCompany.PriceCalculator::CalculatePrice(System.Int32,BusCompany.BusType)": {
+          "Lines": {
+            "15": 3,
+            "16": 9,
+            "18": 3,
+            "19": 1,
+            "21": 2,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "33": 2,
+            "34": 2,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 2,
+            "47": 2,
+            "49": 2,
+            "50": 2
+          },
+          "Branches": [
+            {
+              "Line": 18,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 18,
+              "Offset": 15,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 21,
+              "Offset": 34,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 21,
+              "Offset": 41,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 34,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 21,
+              "Offset": 41,
+              "EndOffset": 115,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 33,
+              "Offset": 124,
+              "EndOffset": 126,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 33,
+              "Offset": 124,
+              "EndOffset": 130,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 145,
+              "EndOffset": 147,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 145,
+              "EndOffset": 159,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BusCompany.PriceCalculator::.ctor()": {
+          "Lines": {
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5,
+            "11": 5,
+            "12": 5
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
